@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"499ac481c7063683","type":"text","text":".edu\n","x":0,"y":-56,"width":105,"height":50,"color":"3"},
+		{"id":"440856bfeb958fbd","type":"text","text":"siaa.cruzeirodosul","x":-200,"y":-56,"width":200,"height":50,"color":"2"},
+		{"id":"1d2db7e2f2c873b2","type":"text","text":"https://","x":-320,"y":-56,"width":120,"height":50,"color":"1"},
+		{"id":"bc7d2299006aad1c","type":"text","text":".","x":105,"y":-56,"width":50,"height":50,"color":"4"},
+		{"id":"98df0e44c9703390","type":"text","text":"br","x":155,"y":-56,"width":79,"height":51,"color":"5"},
+		{"id":"3cd057ff5e4ba919","type":"text","text":"Protocolo","x":-403,"y":-200,"width":143,"height":50,"color":"1"},
+		{"id":"856fa5c649a50a8a","type":"text","text":"[[SLD]] (Second Level Domain)","x":-160,"y":-207,"width":201,"height":68,"color":"3"},
+		{"id":"cc09a817e3636324","type":"text","text":" [[Raiz]]","x":105,"y":-230,"width":133,"height":60,"color":"4"},
+		{"id":"adfce27713657ec9","type":"text","text":"[[TLD]]","x":320,"y":-170,"width":130,"height":50,"color":"5"},
+		{"id":"429905d63f80835b","type":"text","text":"[[Autoritativo]]","x":-160,"y":80,"width":184,"height":56,"color":"2"}
+	],
+	"edges":[
+		{"id":"96e79a93d65a153d","fromNode":"bc7d2299006aad1c","fromSide":"top","toNode":"cc09a817e3636324","toSide":"bottom","color":"4"},
+		{"id":"e822b9393dfefece","fromNode":"98df0e44c9703390","fromSide":"right","toNode":"adfce27713657ec9","toSide":"left","color":"5"},
+		{"id":"bc5031b3ed49864e","fromNode":"499ac481c7063683","fromSide":"top","toNode":"856fa5c649a50a8a","toSide":"bottom","color":"3"},
+		{"id":"cfbe7267196261f7","fromNode":"440856bfeb958fbd","fromSide":"bottom","toNode":"429905d63f80835b","toSide":"top","color":"2"},
+		{"id":"9308f3f6e68649ca","fromNode":"1d2db7e2f2c873b2","fromSide":"top","toNode":"3cd057ff5e4ba919","toSide":"bottom","color":"1"}
+	]
+}
