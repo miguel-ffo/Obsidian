@@ -20,18 +20,25 @@
         "a": 1,
         "rgb": 16711705
       }
+    },
+    {
+      "query": "tag:#CamadasModeloOsi  ",
+      "color": {
+        "a": 1,
+        "rgb": 10806309
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -2.6,
-  "nodeSizeMultiplier": 1.9375,
-  "lineSizeMultiplier": 1.478125,
+  "nodeSizeMultiplier": 2.26927083333333,
+  "lineSizeMultiplier": 1.9375,
   "collapse-forces": false,
-  "centerStrength": 0.260416666666667,
-  "repelStrength": 12.1875,
-  "linkStrength": 0.848958333333333,
-  "linkDistance": 30,
-  "scale": 0.22920135941749645,
-  "close": true
+  "centerStrength": 0.421875,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.229201359417508,
+  "close": false
 }

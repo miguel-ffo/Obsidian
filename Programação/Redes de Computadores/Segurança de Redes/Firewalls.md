@@ -1,3 +1,5 @@
+#SegurançaDeRedes 
+
 Um **firewall** é um sistema de segurança que monitora e controla o tráfego de rede, permitindo ou bloqueando o acesso a determinadas redes com base em um conjunto de regras de segurança. 
 
 Ele age como uma barreira entre uma rede confiável (como a rede interna de uma empresa) e redes externas, como a Internet, protegendo sistemas contra acessos não autorizados, ataques e atividades maliciosas.

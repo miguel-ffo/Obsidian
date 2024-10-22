@@ -20,12 +20,12 @@ Ele protege a comunicação online, tornando-a segura contra interceptações ou
 
 ### Evolução para TLS:
 
-O SSL foi amplamente substituído pelo **[[TLS]] (Transport Layer Security)**, uma versão mais segura e atualizada. As versões mais antigas do SSL (como SSL 2.0 e SSL 3.0) têm vulnerabilidades de segurança e não são mais recomendadas. 
-No entanto, o termo "SSL" ainda é amplamente usado para se referir a criptografia em sites, mesmo quando o protocolo [[TLS]] está sendo usado.
+O SSL foi amplamente substituído pelo **TLS (Transport Layer Security)**, uma versão mais segura e atualizada. As versões mais antigas do SSL (como SSL 2.0 e SSL 3.0) têm vulnerabilidades de segurança e não são mais recomendadas. 
+No entanto, o termo "SSL" ainda é amplamente usado para se referir a criptografia em sites, mesmo quando o protocolo TLS está sendo usado.
 
 ### Como identificar SSL/TLS em sites:
 
-- Quando você visita um site com SSL/[[TLS]] ativo, a [[Url.canvas|Url]] começa com **"https://"** (o "s" significa seguro).
+- Quando você visita um site com SSL/TLS ativo, a Url.canvas|Url começa com **"https://"** (o "s" significa seguro).
 - Navegadores também mostram um ícone de cadeado na barra de endereços ao visitar sites seguros.
 
 ### Benefícios:
@@ -34,5 +34,5 @@ No entanto, o termo "SSL" ainda é amplamente usado para se referir a criptograf
 - **Autenticação**: Garante que o usuário está se comunicando com o servidor legítimo.
 - **Integridade dos dados**: Garante que as informações não sejam alteradas durante a transmissão.
 
-SSL/[[TLS]] é fundamental para proteger transações online, como compras, acesso a contas e outras interações sensíveis na web.
+SSL/TLS é fundamental para proteger transações online, como compras, acesso a contas e outras interações sensíveis na web.
 

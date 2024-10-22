@@ -1,3 +1,5 @@
+#SegurançaDeRedes 
+
 Uma **VPN** (Virtual Private Network) é uma tecnologia que cria uma **conexão segura e criptografada** entre o dispositivo do usuário e a Internet.
 
 Essa conexão permite que os dados sejam transmitidos de forma privada, protegendo-os contra interceptações e monitoramento por terceiros, como provedores de internet, hackers ou governos.

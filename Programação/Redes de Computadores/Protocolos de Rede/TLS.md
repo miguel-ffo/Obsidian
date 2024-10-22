@@ -1,14 +1,14 @@
 #ProtocolosDeRede 
 
-**TLS (Transport Layer Security)** é o sucessor mais seguro e atualizado do **[[SSL]] (Secure Sockets Layer)**. 
+**TLS (Transport Layer Security)** é o sucessor mais seguro e atualizado do **SSL (Secure Sockets Layer)**. 
 
 Ele é um protocolo criptográfico que fornece comunicação segura entre dispositivos conectados à Internet, protegendo a privacidade e a integridade dos dados durante a transmissão.
 
-### Diferenças entre TLS e [[SSL]]:
+### Diferenças entre TLS e SSL:
 
-- **TLS é mais seguro**: O TLS corrige várias vulnerabilidades que existiam nas versões anteriores do [[SSL]] (como [[SSL]] 2.0 e [[SSL]] 3.0).
+- **TLS é mais seguro**: O TLS corrige várias vulnerabilidades que existiam nas versões anteriores do SSL (como SSL 2.0 e SSL 3.0).
 - **Protocolos mais eficientes**: TLS implementa algoritmos criptográficos mais modernos e robustos.
-- **Continuidade de nomenclatura**: Embora TLS seja tecnicamente diferente, muitas pessoas ainda chamam de "[[SSL]]" as conexões seguras na web.
+- **Continuidade de nomenclatura**: Embora TLS seja tecnicamente diferente, muitas pessoas ainda chamam de "SSL" as conexões seguras na web.
 
 ### Como o TLS funciona:
 
@@ -45,8 +45,8 @@ Ele é um protocolo criptográfico que fornece comunicação segura entre dispos
 
 ### Uso do TLS:
 
-- **[[HTTPs]]**: O protocolo TLS é o que torna o **[[HTTPs]]** ([[HTTP]] sobre TLS) seguro, sendo amplamente usado em sites para proteger transações financeiras, login de usuários e qualquer troca de informações sensíveis.
-- **Outros protocolos**: Além do [[HTTP]], o TLS pode ser usado com outros protocolos como **[[SMTP]]** (e-mails), **[[FTPS]]** (transferência de arquivos segura), **IMAP** e **POP3** (para e-mails).
+- **HTTPs**: O protocolo TLS é o que torna o **HTTPs** (HTTP sobre TLS) seguro, sendo amplamente usado em sites para proteger transações financeiras, login de usuários e qualquer troca de informações sensíveis.
+- **Outros protocolos**: Além do HTTP, o TLS pode ser usado com outros protocolos como **SMTP** (e-mails), **FTPS** (transferência de arquivos segura), **IMAP** e **POP3** (para e-mails).
 
 TLS é essencial para garantir a segurança na Internet moderna, protegendo os usuários de uma ampla gama de ameaças cibernéticas.
 

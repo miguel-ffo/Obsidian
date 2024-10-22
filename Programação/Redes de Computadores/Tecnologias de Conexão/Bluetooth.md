@@ -1,3 +1,5 @@
+#TecnologiasDeConexão
+
 **Bluetooth** é uma tecnologia de comunicação sem fio de curto alcance que permite a troca de dados entre dispositivos eletrônicos. 
 
 Ele utiliza frequências de rádio na faixa de 2,4 GHz para transmitir informações, eliminando a necessidade de cabos para conectar aparelhos como smartphones, computadores, fones de ouvido, teclados, mouses e até sistemas de automação residencial.

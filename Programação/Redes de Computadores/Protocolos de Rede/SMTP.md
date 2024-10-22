@@ -23,7 +23,7 @@ O SMTP é um protocolo baseado em texto que facilita a transmissão de e-mails, 
 - **Portas SMTP**:
     - **Porta 25**: Usada tradicionalmente para a comunicação entre servidores SMTP.
     - **Porta 587**: Usada para o envio de e-mails por clientes de e-mail.
-    - **Porta 465**: Usada para SMTP com criptografia [[SSL]]/[[TLS]].
+    - **Porta 465**: Usada para SMTP com criptografia SSL/TLS.
 
 ### Funções do SMTP:
 
@@ -33,7 +33,7 @@ O SMTP é um protocolo baseado em texto que facilita a transmissão de e-mails, 
 
 ### SMTP e Segurança:
 
-O protocolo SMTP por si só não é criptografado, o que significa que as mensagens podem ser interceptadas se forem transmitidas em texto simples. Para melhorar a segurança, o SMTP geralmente é combinado com [[SSL]] ou **[[TLS]]**, usando o **[[SMTPS]]** (SMTP Secure) para criptografar a comunicação entre cliente e servidor.
+O protocolo SMTP por si só não é criptografado, o que significa que as mensagens podem ser interceptadas se forem transmitidas em texto simples. Para melhorar a segurança, o SMTP geralmente é combinado com SSL ou **TLS**, usando o **SMTPS** (SMTP Secure) para criptografar a comunicação entre cliente e servidor.
 
 ### Limitações do SMTP:
 

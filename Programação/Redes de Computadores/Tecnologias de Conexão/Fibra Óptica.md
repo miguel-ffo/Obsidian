@@ -1,3 +1,5 @@
+#TecnologiasDeConexão 
+
 A **fibra óptica** é uma tecnologia de transmissão de dados que utiliza **fios de vidro ou plástico** para conduzir **pulsos de luz**. 
 
 Esses pulsos transportam informações digitais de maneira extremamente rápida e eficiente, sendo amplamente utilizada em telecomunicações e redes de Internet de alta velocidade.

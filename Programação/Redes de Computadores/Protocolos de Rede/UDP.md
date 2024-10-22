@@ -1,6 +1,8 @@
+#ProtocolosDeRede 
+
 **UDP** (User Datagram Protocol) é um protocolo de comunicação usado na transmissão de dados pela internet. 
 
-Ele faz parte da pilha de protocolos [[TCP IP]] e é conhecido por sua natureza **não orientada à conexão**, o que significa que não estabelece uma conexão antes de enviar dados e não garante a entrega dos pacotes.
+Ele faz parte da pilha de protocolos TCP IP e é conhecido por sua natureza **não orientada à conexão**, o que significa que não estabelece uma conexão antes de enviar dados e não garante a entrega dos pacotes.
 
 ### Características do UDP:
 
@@ -41,4 +43,4 @@ O cabeçalho UDP contém as seguintes informações:
 
 O **UDP** é um protocolo leve e rápido que é ideal para aplicações que exigem comunicação em tempo real e podem tolerar alguma perda de dados. 
 
-Embora não forneça as garantias de entrega do [[TCP]], sua eficiência e baixa latência o tornam uma escolha popular em cenários onde a velocidade é mais importante do que a confiabilidade absoluta.
+Embora não forneça as garantias de entrega do TCP, sua eficiência e baixa latência o tornam uma escolha popular em cenários onde a velocidade é mais importante do que a confiabilidade absoluta.

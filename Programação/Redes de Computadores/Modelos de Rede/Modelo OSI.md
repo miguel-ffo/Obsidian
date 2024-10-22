@@ -1,3 +1,5 @@
+#ModelosDeRede
+
 O **modelo OSI** (Open Systems Interconnection) é um modelo de referência que descreve como diferentes sistemas de comunicação de rede devem interagir. 
 
 Ele foi criado pela **ISO** (International Organization for Standardization) para padronizar a forma como dados são transmitidos entre dispositivos em uma rede. 

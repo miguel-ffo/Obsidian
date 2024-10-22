@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "bf0247d4aa4bbf98",
+    "id": "659d3698de8b220b",
     "type": "split",
     "children": [
       {
-        "id": "c552b001f6bb3f83",
+        "id": "e51b2a06820c4858",
         "type": "tabs",
         "children": [
           {
-            "id": "48dbab896b327394",
+            "id": "76a6baf7fc58a741",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redes de Computadores/Internet.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Internet"
+              "title": "Nova aba"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8411e7120b7eed21",
+    "id": "10fe39ecac653ce4",
     "type": "split",
     "children": [
       {
-        "id": "ae14a14d27a9d5f5",
+        "id": "53d5526f1fe36dae",
         "type": "tabs",
         "children": [
           {
-            "id": "3b5623fcd85b3d0c",
+            "id": "332edfab6bec9a10",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "e79e752fdd977b92",
+            "id": "e6662117616e4663",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "f113547c3f7a1d10",
+            "id": "4caaf8f7cea093e8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,15 +76,15 @@
     "width": 300
   },
   "right": {
-    "id": "8c55c9013f930f82",
+    "id": "26fc580625c280d1",
     "type": "split",
     "children": [
       {
-        "id": "ac1d0d79d3039d66",
+        "id": "e5b684d7a6a444ee",
         "type": "tabs",
         "children": [
           {
-            "id": "2d1e5d8952b408c1",
+            "id": "f9c2d6820d15d6c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +102,7 @@
             }
           },
           {
-            "id": "ec51f1eca2eaadb3",
+            "id": "91e9013950601481",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,7 +115,7 @@
             }
           },
           {
-            "id": "bc01fc8a7ced8f51",
+            "id": "2996ae9a80ead597",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,7 +128,7 @@
             }
           },
           {
-            "id": "644bb5594dc3a033",
+            "id": "0e54d130363f01e5",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -158,47 +154,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "48dbab896b327394",
-  "lastOpenFiles": [
-    "Redes de Computadores/IoT.md",
-    "Redes de Computadores/QoS.md",
-    "Redes de Computadores/Nomes de Domínio.md",
-    "Redes de Computadores/Protocolos de Rede/DNS.md",
-    "Redes de Computadores/Protocolos de Rede/DNS/Name Server.md",
-    "Name Server.md",
-    "Redes de Computadores/ISP.md",
-    "Redes de Computadores/Internet.md",
-    "Redes de Computadores/TIpos de Redes/WAN.md",
-    "Redes de Computadores/Endereçamento e Roteamento/Endereçamento e Roteamento.md",
-    "Redes de Computadores/TIpos de Redes/LAN.md",
-    "Redes de Computadores/Modelos de Rede/Modelo OSI.md",
-    "Redes de Computadores/Modelos de Rede/Camadas Modelo Osi/Camada de Transporte.md",
-    "Redes de Computadores/MAC.md",
-    "Redes de Computadores/Modelos de Rede/Camadas Modelo Osi/Camada de Rede.md",
-    "Redes de Computadores/Modelos de Rede/Camadas Modelo Osi/Camada Física.md",
-    "Redes de Computadores/Modelos de Rede/Camadas Modelo Osi/Camada de Enlace.md",
-    "Redes de Computadores/Modelos de Rede/Camadas Modelo Osi",
-    "Redes de Computadores/bytes.md",
-    "Redes de Computadores/bits.md",
-    "Redes de Computadores/Virtualização de Redes/Virtualização de Redes.md",
-    "Redes de Computadores/Virtualização de Redes/VLANs.md",
-    "Redes de Computadores/Virtualização de Redes/SDN.md",
-    "Redes de Computadores/Topologias de Rede/Topologias de Rede.md",
-    "Redes de Computadores/TIpos de Redes/WLAN.md",
-    "Redes de Computadores/TIpos de Redes/Tipos De Rede.md",
-    "Redes de Computadores/TIpos de Redes/PAN.md",
-    "Redes de Computadores",
-    "Estruturas de Dados",
-    "Modelo TCP",
-    "Redes de Computadores/Protocolos de Rede/DNS/DNS Canva/Url.canvas",
-    "Redes de Computadores/Topologias de Rede",
-    "Redes de Computadores/Virtualização de Redes",
-    "Redes de Computadores/TIpos de Redes",
-    "Redes de Computadores/Tecnologias de Conexão",
-    "Redes de Computadores/Segurança de Redes",
-    "Redes de Computadores/Protocolos de Rede/DNS/DNS Canva/Recursiva.canvas",
-    "Redes de Computadores/Protocolos de Rede/DNS/DNS Canva/Interativa.canvas",
-    "Redes de Computadores/Protocolos de Rede/DNS/DNS Canva/DNS Externo.canvas",
-    "Redes de Computadores/Protocolos de Rede/DNS/Servidores DNS"
-  ]
+  "active": "76a6baf7fc58a741",
+  "lastOpenFiles": []
 }

@@ -1,6 +1,6 @@
 #ProtocolosDeRede 
 
-**DNS (Domain Name System)** é um sistema que traduz nomes de domínio legíveis por humanos (como `www.example.com`) em endereços IP (como `192.168.1.1`), que são usados pelos computadores para localizar e se comunicar com servidores na internet. 
+**DNS (Domain Name System)** é um sistema que traduz [[nomes de domínio]] legíveis por humanos (como `www.example.com`) em endereços IP (como `192.168.1.1`), que são usados pelos computadores para localizar e se comunicar com servidores na internet. 
 
 O DNS atua como uma espécie de "catálogo telefônico" da internet, facilitando a navegação, já que é mais fácil lembrar um nome de domínio do que um endereço IP numérico.
 
@@ -41,7 +41,7 @@ Os servidores DNS mantêm diferentes tipos de registros para fornecer as informa
 - **AAAA Record**: Associa um nome de domínio a um endereço IPv6.
 - **CNAME (Canonical Name Record)**: Um alias para outro domínio. Por exemplo, `www.example.com` pode ser um CNAME para `example.com`.
 - **MX Record (Mail Exchange Record)**: Especifica os servidores de e-mail para o domínio.
-- **NS Record (Name Server Record)**: Indica quais servidores são autoritativos para aquele domínio.
+- **NS Record ([[Name Server]] Record)**: Indica quais servidores são autoritativos para aquele domínio.
 - **TXT Record**: Contém texto arbitrário, usado para propósitos diversos como verificação de domínio e configurações de segurança.
 
 ### Cache DNS:
