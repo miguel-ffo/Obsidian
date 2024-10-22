@@ -12,10 +12,37 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "1684e24bcd5669e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estruturas de Dados/Árvores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Árvores"
+            }
+          },
+          {
+            "id": "18937ac821673cfb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -35,7 +62,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -50,7 +79,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -58,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -88,7 +121,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +134,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
             }
           },
           {
@@ -110,7 +147,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
             }
           }
         ]
@@ -138,47 +179,47 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a2d935301cd12625",
+  "active": "18937ac821673cfb",
   "lastOpenFiles": [
-    "Endereçamento e Roteamento/IP.md",
-    "Endereçamento e Roteamento/Endereçamento e Roteamento.md",
-    "Endereçamento e Roteamento/Sub-redes.md",
-    "Protocolos de Rede/HTTPs.md",
-    "TCP.md",
-    "Componentes de Rede/Componentes de Rede.md",
-    "TIpos de Redes/WLAN.md",
-    "IoT.md",
-    "Criptografia.md",
-    "Dispositivos sem Fio.md",
-    "ponto-a-ponto.md",
-    "Bluetooth.md",
-    "Cabos.md",
-    "Componentes de Rede/Modems.md",
-    "Fibra Óptica.md",
-    "Componentes de Rede/Hubs.md",
-    "Componentes de Rede/Roteadores.md",
-    "Componentes de Rede/Switches.md",
-    "ISP.md",
-    "Redes de Computadores.md",
-    "TIpos de Redes/Tipos De Rede.md",
-    "Ferramentas de Monitoramento/Ferramentas de Monitoramento.md",
-    "Virtualização de Redes/Virtualização de Redes.md",
-    "Topologias de Rede/Topologias de Rede.md",
-    "Tecnologias de Conexão/Tecnologias de Conexão.md",
-    "Segurança de Redes/Segurança de Redes.md",
-    "Topologias de Rede",
-    "Virtualização de Redes",
-    "TIpos de Redes",
-    "Tecnologias de Conexão",
-    "Segurança de Redes",
-    "Protocolos de Rede/DNS/DNS Canva/Url.canvas",
-    "Protocolos de Rede/DNS/DNS Canva/Recursiva.canvas",
-    "Protocolos de Rede/DNS/DNS Canva/Interativa.canvas",
-    "Protocolos de Rede/DNS/DNS Canva/DNS Externo.canvas",
-    "Protocolos de Rede/DNS/Servidores DNS",
-    "Protocolos de Rede/DNS/DNS Canva",
-    "Protocolos de Rede/DNS",
-    "Protocolos de Rede",
-    "Modelos de Rede"
+    "Redes de Computadores/Endereçamento e Roteamento/Sub-redes.md",
+    "Redes de Computadores/Endereçamento e Roteamento/Endereçamento e Roteamento.md",
+    "Redes de Computadores/Endereçamento e Roteamento/IP.md",
+    "Redes de Computadores/Protocolos de Rede/HTTPs.md",
+    "Estruturas de Dados/Tabelas hash.md",
+    "Estruturas de Dados/Pilhas.md",
+    "Estruturas de Dados/Listas.md",
+    "Estruturas de Dados/Grafos.md",
+    "Estruturas de Dados/Filas.md",
+    "Estruturas de Dados/Árvores.md",
+    "Estruturas de Dados/Estruturas de Dados.md",
+    "Linguagens de Programação/Linguagens de Programação.md",
+    "Linguagens de Programação/HTML.md",
+    "Redes de Computadores/Redes de Computadores.md",
+    "Redes de Computadores/Ferramentas de Monitoramento/Ferramentas de Monitoramento.md",
+    "Sem título",
+    "Redes de Computadores",
+    "Estruturas de Dados",
+    "Redes de Computadores/QoS.md",
+    "Redes de Computadores/Segurança de Redes/Segurança de Redes.md",
+    "Redes de Computadores/Segurança de Redes/Criptografia.md",
+    "Redes de Computadores/Componentes de Rede/Componentes de Rede.md",
+    "Redes de Computadores/Componentes de Rede/Cabos.md",
+    "Redes de Computadores/Modelos de Rede/Modelos de Rede.md",
+    "Redes de Computadores/Modelos de Rede/Modelo TCP IP.md",
+    "Modelo TCP/IP.md",
+    "Modelo TCP",
+    "Redes de Computadores/Tecnologias de Conexão/Tecnologias de Conexão.md",
+    "Redes de Computadores/Virtualização de Redes/Virtualização de Redes.md",
+    "Redes de Computadores/Arquitetura de Redes/Arquiteturas de Redes.md",
+    "Redes de Computadores/Protocolos de Rede/DNS/DNS Canva/Url.canvas",
+    "Redes de Computadores/Topologias de Rede",
+    "Redes de Computadores/Virtualização de Redes",
+    "Redes de Computadores/TIpos de Redes",
+    "Redes de Computadores/Tecnologias de Conexão",
+    "Redes de Computadores/Segurança de Redes",
+    "Redes de Computadores/Protocolos de Rede/DNS/DNS Canva/Recursiva.canvas",
+    "Redes de Computadores/Protocolos de Rede/DNS/DNS Canva/Interativa.canvas",
+    "Redes de Computadores/Protocolos de Rede/DNS/DNS Canva/DNS Externo.canvas",
+    "Redes de Computadores/Protocolos de Rede/DNS/Servidores DNS"
   ]
 }

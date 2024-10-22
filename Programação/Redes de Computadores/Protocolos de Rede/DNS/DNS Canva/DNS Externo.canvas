@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"2108a721861dd859","type":"text","text":"DNS com","x":-320,"y":-235,"width":146,"height":61,"color":"5"},
+		{"id":"c024b7fb6a3a0ab9","type":"text","text":"DNS org","x":-126,"y":-234,"width":146,"height":59,"color":"5"},
+		{"id":"b95222c0f94069da","type":"text","text":"[[Raiz]]","x":-126,"y":-360,"width":144,"height":60,"color":"1"},
+		{"id":"d26d820dc5fe480c","type":"text","text":"DNS instagram.com","x":-344,"y":-140,"width":170,"height":60,"color":"3"},
+		{"id":"5562c5afb2fe8f18","type":"text","text":"DNS facebook.com","x":-344,"y":-40,"width":170,"height":60,"color":"3"},
+		{"id":"e432c5fc02c682f8","type":"text","text":"DNS nya.edu\n","x":80,"y":-143,"width":140,"height":63,"color":"3"},
+		{"id":"7862f4cacd9185b2","type":"text","text":"DNS umass.edu","x":80,"y":-43,"width":140,"height":63,"color":"3"},
+		{"id":"6befd2a579a43a5c","type":"text","text":"DNS pbs.org","x":-124,"y":-140,"width":142,"height":60,"color":"3"},
+		{"id":"2b730817ffcccd72","type":"text","text":"Root","x":342,"y":-355,"width":116,"height":50,"color":"1"},
+		{"id":"71912e45a51bcad6","type":"text","text":"[[Autoritativo]]","x":342,"y":-100,"width":160,"height":60,"color":"3"},
+		{"id":"5d3ea82a943aed9a","type":"text","text":"[[TLD]] \n(Top Level Domain)","x":313,"y":-236,"width":218,"height":61,"color":"5"},
+		{"id":"83f2b86d7fc5c156","type":"text","text":"DNS edu","x":60,"y":-234,"width":140,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"7cf6e69f0a3f8fe7","fromNode":"b95222c0f94069da","fromSide":"bottom","toNode":"c024b7fb6a3a0ab9","toSide":"top","color":"1"},
+		{"id":"f2da0ebbd3c9caa5","fromNode":"b95222c0f94069da","fromSide":"bottom","toNode":"83f2b86d7fc5c156","toSide":"top","color":"1"},
+		{"id":"7da6e9d90f3a6153","fromNode":"b95222c0f94069da","fromSide":"bottom","toNode":"2108a721861dd859","toSide":"top","color":"1"},
+		{"id":"ee81b1f434b839ac","fromNode":"2108a721861dd859","fromSide":"left","toNode":"d26d820dc5fe480c","toSide":"left","color":"5"},
+		{"id":"34e9c49c2a59ae39","fromNode":"2108a721861dd859","fromSide":"left","toNode":"5562c5afb2fe8f18","toSide":"left","color":"5"},
+		{"id":"50a0ff0b26e9b92e","fromNode":"c024b7fb6a3a0ab9","fromSide":"bottom","toNode":"6befd2a579a43a5c","toSide":"top","color":"5"},
+		{"id":"5ba8be5cb84df2c1","fromNode":"83f2b86d7fc5c156","fromSide":"right","toNode":"7862f4cacd9185b2","toSide":"right","color":"5"},
+		{"id":"e398a0d839716740","fromNode":"83f2b86d7fc5c156","fromSide":"right","toNode":"e432c5fc02c682f8","toSide":"right","color":"5"}
+	]
+}
