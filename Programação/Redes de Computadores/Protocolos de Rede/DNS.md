@@ -1,6 +1,6 @@
 #ProtocolosDeRede 
 
-**DNS (Domain Name System)** é um sistema que traduz [[nomes de domínio]] legíveis por humanos (como `www.example.com`) em endereços IP (como `192.168.1.1`), que são usados pelos computadores para localizar e se comunicar com servidores na internet. 
+**DNS (Domain Name System)** é um sistema que traduz [[Nomes de Domínio]] legíveis por humanos (como `www.example.com`) em endereços IP (como `192.168.1.1`), que são usados pelos computadores para localizar e se comunicar com servidores na internet. 
 
 O DNS atua como uma espécie de "catálogo telefônico" da internet, facilitando a navegação, já que é mais fácil lembrar um nome de domínio do que um endereço IP numérico.
 
