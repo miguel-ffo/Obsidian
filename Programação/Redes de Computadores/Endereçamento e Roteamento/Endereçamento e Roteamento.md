@@ -1,7 +1,7 @@
 #Tópicos 
 
-- Endereço [[IP]]
+-  [[Endereço IP]]
 - [[Sub-redes]]
-- Endereço [[MAC]]
-- Roteamento Estático
-- Roteamento Dinâmico
+- [[Endereço MAC]]
+- [[Roteamento Estático]]
+- [[Roteamento Dinâmico]]

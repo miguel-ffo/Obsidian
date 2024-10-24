@@ -1,5 +1,5 @@
 #Tópicos 
 
-- Wireshark
+- [[Wireshark]]
 - [[SNMP]]
-- Ferramentas de Diagnóstico (Ping, Tracert)
+- [[Ferramentas de Diagnóstico]] 

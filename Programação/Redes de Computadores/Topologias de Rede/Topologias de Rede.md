@@ -1,6 +1,6 @@
 #Tópicos 
 
-- Topologia em estrela
-- Barramento
-- Anel
-- Malha
+- [[Topologia em estrela]]
+- [[Barramento]]
+- [[Anel]]
+- [[Malha]]
