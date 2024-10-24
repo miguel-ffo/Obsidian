@@ -18,7 +18,7 @@ A árvores são uma das estruturas mais importantes devido à sua eficiência em
 ### Tipos de árvores:
 
 1. **Árvore binária**: Cada nó tem no máximo dois filhos, chamados de filho esquerdo e filho direito.
-2. **Árvore binária de busca (BST - Binary Search Tree)**: Uma árvore binária onde, para cada nó, os valores no subárvore à esquerda são menores que o valor do nó, e os valores no subárvore à direita são maiores.
+2. **[[Árvore binária de busca]] (BST - Binary Search Tree)**: Uma árvore binária onde, para cada nó, os valores no subárvore à esquerda são menores que o valor do nó, e os valores no subárvore à direita são maiores.
 3. **Árvore balanceada**: Uma árvore onde a altura dos sub-árvores esquerda e direita de qualquer nó difere no máximo por uma constante, para evitar o pior caso de desempenho.
 4. **Árvore AVL**: Uma árvore binária de busca balanceada automaticamente.
 5. **Árvore B**: Usada principalmente em bancos de dados e sistemas de arquivos, é uma árvore que pode ter mais de dois filhos por nó, sendo balanceada para operações eficientes de leitura/escrita em grandes quantidades de dados.

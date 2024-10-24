@@ -1,8 +1,8 @@
-Um **byte** é uma unidade de informação digital composta por **8 [[bits]]**.
+Um **byte** é uma unidade de informação digital composta por **8 [[Bits]]**.
 
 Os bytes são amplamente utilizados como a unidade básica para medir e representar dados em sistemas computacionais. 
 
-Como cada [[bits]] pode ter o valor de **0** ou **1**, um byte pode armazenar 256 combinações possíveis (2⁸ = 256), o que é suficiente, por exemplo, para representar um único caractere no código **ASCII** (American Standard Code for Information Interchange).
+Como cada [[Bits]] pode ter o valor de **0** ou **1**, um byte pode armazenar 256 combinações possíveis (2⁸ = 256), o que é suficiente, por exemplo, para representar um único caractere no código **ASCII** (American Standard Code for Information Interchange).
 
 Assim, cada byte pode armazenar um símbolo, letra ou número, como 'A', '3' ou '$'.
 

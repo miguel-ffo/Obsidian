@@ -6,7 +6,7 @@ Eles formam a base de toda comunicação e armazenamento digital, sendo usados p
 
 Quando agrupados, os bits formam unidades maiores, como:
 
-- **[[bytes]]**: composto por 8 bits.
+- **[[Bytes]]**: composto por 8 bits.
 - **Kilobyte (KB)**: 1.024 bytes.
 - **Megabyte (MB)**: 1.024 kilobytes, e assim por diante.
 
